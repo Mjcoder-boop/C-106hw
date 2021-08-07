@@ -1,0 +1,49 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background-image: linear-gradient( #18dbd8, orange);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.Heading{
+  font-size: 18px;
+  letter-spacing:10px;
+    border-radius: 10px;
+font-variant: small-caps;
+    background-color:blue;
+    color: black;
+}
+#web, #snap {
+  color: white;
+    background-image: linear-gradient(black, red);
+}
+label{
+  font-size: 15px;
+  color: rgb(5, 5, 5);
+  padding: 6px;
+  border-radius: 10px;
+  background-color: crimson;
+}
+.head{
+    color: black;
+}
